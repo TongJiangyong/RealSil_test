@@ -8,3 +8,5 @@ test add something agin
 stupid
 stupid 2
 remote modify2
+
+remote modify test git fetch
